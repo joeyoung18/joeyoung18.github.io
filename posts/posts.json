@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "slug": "hello-world",
+    "title": "Hello World",
+    "date": "2026-01-09",
+    "desc": "由于挂载限制，索引文件暂时放在 posts 目录下。",
+    "tags": ["Test"]
+  }
+]
